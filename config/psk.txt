@@ -1,2 +1,0 @@
-Psk_admin:$7$101$Lwdce4lTi0oWM5Tp$RdzFthukpj+6i93NZBQ+A2EE/Ox/cuu1yY+N25uZ+CsQ/mjsq7/Zix5NfqAfZMChvh7XeMxuDl6EuzZVl+NWww==
-Psk_admin1:$7$101$oxE86Pjooq9XRkIw$lcYDgZbR+Obw4mKl5oYC6qYQYXx++E+foYPpc2wqIPLsRDWQACy6FqVWL9y9pPB5vDD+EH6dxI8yK/TF2cI8Ww==
